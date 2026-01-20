@@ -154,7 +154,7 @@ Pick a topic you like → Google Scholar → find 3 papers → do the first pass
 
 ---
 
-**Based on:** "How to Read a Paper" by S. Keshav, University of Waterloo
+**Based on:** "How to Read a Paper" by S. Keshav, University of Waterloo (http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 
 ---
 
