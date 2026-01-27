@@ -150,6 +150,28 @@ By the end of this session, you'll know:
 
 ---
 
+## Smart Tools & Systems
+
+### Use Gen AI to Your Advantage
+
+**NotebookLM:** Upload papers → get summaries and audio overviews
+- Great for initial understanding
+- Audio summaries help if you're good at listening in English
+- Use AFTER first pass, not instead of it
+
+### Set Up a Tracking System
+
+**Excel/Notion template with:**
+- Title, authors, year, venue
+- Summary (in your own words)
+- Key findings
+- Personal takeaways
+- Relevance (use color codes: 🟢 high, 🟡 medium, 🔴 low)
+
+**Why?** You'll forget details over time. Good notes = no re-reading later.
+
+---
+
 ## Quick Tips
 
 ✅ Don't read papers start to finish—use the three passes
@@ -177,6 +199,7 @@ Pick a topic you like → Google Scholar → find 2 papers → do the first TWO 
 - **arXiv:** arxiv.org
 - **Papers with Code:** paperswithcode.com
 - **Sci-Hub:** sci-hub.se (check for current mirrors)
+- **NotebookLM:** notebooklm.google.com
 
 ---
 
