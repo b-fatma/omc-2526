@@ -4,7 +4,25 @@
 
 ## Why This Matters
 
-Researchers spend hundreds of hours reading papers, but nobody teaches you how to do it efficiently. Let's fix that.
+**As a student:** Essential for research, especially in AI where latest advances are in papers
+
+**In industry:** Needed to build solutions that match state-of-the-art standards
+
+**Bottom line:** Reading papers efficiently is a critical skill
+
+---
+
+## What You'll Learn
+
+By the end of this session, you'll know:
+
+✓ **The three-pass method** for efficient paper reading
+
+✓ **How to identify** high-quality publication venues, papers and researchers
+
+✓ **Where to find** and access research papers
+
+✓ **Top AI conferences** and journals to follow
 
 ---
 
@@ -60,36 +78,33 @@ Researchers spend hundreds of hours reading papers, but nobody teaches you how t
 
 ---
 
-## Finding Papers: Literature Survey
+## Quality Metrics: Venues, Researchers, and Papers
 
-**Step 1:** Google Scholar → find 3-5 recent papers → read their "Related Work" sections
-- **Pro tip:** If you find a survey paper, you're done! Read it and celebrate.
+### For Venues: Quartile Rankings (Q1-Q4)
+- **Q1** (top 25%) → Best quality, strictest peer review
+- **Q2-Q3** → Good to moderate quality
+- **Q4** (bottom 25%) → Lower impact
+- **Check on:** Scimago (scimagojr.com)
 
-**Step 2:** Notice which papers and authors keep appearing → those are the key ones
+### For Papers: Citations
+**What are citations?** Number of times other papers reference this work
 
-**Step 3:** Check where key researchers publish → find the top conferences in that field
+**Rule of thumb:**
+- 100+ citations → Important paper
+- 500+ citations → Highly influential
+- 1000+ citations → Landmark paper
+- **Check on:** Google Scholar
 
-**Step 4:** Browse recent proceedings from top conferences → build your reading list
+### For Researchers: h-index + Citations
+**h-index:** A researcher has h-index of X if they have X papers with at least X citations each
 
----
+**Example:** h-index of 20 = 20 papers with 20+ citations each
 
-## Publication Venues: Quality Matters
-
-### Quartile Rankings (Q1-Q4)
-
-Venues are ranked by impact:
-- **Q1** (top 25%) - Best quality, most prestigious
-- **Q2** (25-50%) - Good quality
-- **Q3** (50-75%) - Moderate
-- **Q4** (bottom 25%) - Lower impact
-
-**Why care?** Q1 papers generally have higher quality and stricter peer review.
-
-### Free Tool: Scimago Journal Rank
-
-**Website:** https://www.scimagojr.com
-
-Search any journal or conference → see its quartile ranking and citation metrics. Completely free.
+**What's good?**
+- h-index 10-20 → Solid researcher
+- h-index 20-40 → Established expert
+- h-index 40+ → Leading researcher in the field
+- **Check on:** Google Scholar profile
 
 ---
 
@@ -123,6 +138,18 @@ Search any journal or conference → see its quartile ranking and citation metri
 
 ---
 
+## Accessing Paywalled Papers
+
+**DOI (Digital Object Identifier):** Unique ID for each paper (e.g., 10.1145/1273445.1273458)
+
+**Problem:** Many papers are behind paywalls
+
+**Solution:** Sci-Hub (sci-hub.se or other mirrors)
+- Paste the DOI or paper URL
+- Get free PDF access
+
+---
+
 ## Quick Tips
 
 ✅ Don't read papers start to finish—use the three passes
@@ -133,15 +160,13 @@ Search any journal or conference → see its quartile ranking and citation metri
 
 ✅ High citations = important paper
 
-✅ Survey papers are gold, they summarize entire fields
-
-✅ In AI, top conferences > many journals
+✅ Survey papers are gold, they summarize entire fields (but you do not need to read all survey papers if many are available)
 
 ---
 
 ## Practice Time
 
-Pick a topic you like → Google Scholar → find 3 papers → do the first pass on each → check venues on Scimago
+Pick a topic you like → Google Scholar → find 2 papers → do the first TWO passes on each → check venues on Scimago
 
 ---
 
@@ -151,6 +176,7 @@ Pick a topic you like → Google Scholar → find 3 papers → do the first pass
 - **Google Scholar:** scholar.google.com  
 - **arXiv:** arxiv.org
 - **Papers with Code:** paperswithcode.com
+- **Sci-Hub:** sci-hub.se (check for current mirrors)
 
 ---
 
@@ -159,3 +185,8 @@ Pick a topic you like → Google Scholar → find 3 papers → do the first pass
 ---
 
 *Remember: Even experts don't deeply read every paper. Strategic reading is the skill.*
+
+---
+
+**Presented by:** BOULGHERAIF Fatma Zohra  
+**GitHub:** b-fatma
