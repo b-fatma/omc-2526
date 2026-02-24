@@ -1,0 +1,16 @@
+order_id,customer_name,product,quantity,price,order_date,city,payment_method
+1001,Alice Johnson,Laptop,1,899.99,2024-01-15,New York,Credit Card
+1002,Bob Smith,Mouse,2,25.50,2024-01-16,Los Angeles,PayPal
+1003,Charlie Brown,Keyboard,1,79.99,2024-01-16,Chicago,Credit Card
+1004,Diana Prince,Monitor,1,299.99,2024-01-17,?,Debit Card
+1005,Eve Davis,Laptop,1,899.99,2024-01-18,Boston,Credit Card
+1006,Frank Miller,Mouse,3,25.50,2024-01-18,New York,NA
+1007,Grace Lee,Headphones,2,149.99,2024-01-19,Seattle,PayPal
+1008,Henry Wilson,Keyboard,1,79.99,?,Miami,Credit Card
+1009,Ivy Chen,Webcam,1,89.99,2024-01-20,Austin,Debit Card
+1010,Bob Smith,Mouse,2,25.50,2024-01-16,Los Angeles,PayPal
+1011,Kate Brown,Laptop,1,899.99,2024-01-21,Denver,Credit Card
+1012,Liam Taylor,?,1,199.99,2024-01-21,Portland,PayPal
+1013,Mia Garcia,Monitor,2,299.99,2024-01-22,Phoenix,NA
+1014,Noah Martinez,Mouse,5,25.50,2024-01-23,Dallas,Credit Card
+1015,Olivia Anderson,Laptop,1,?,2024-01-23,San Diego,Debit Card

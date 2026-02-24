@@ -1,0 +1,129 @@
+member_id,full_name,age,wilaya,university,level,track,role,join_date,workshops_attended,project_score,github_profile,status,email
+OMC-2024-465,Nadine Bensalem,25.0,Sétif,ESI,L1,Web Development,Core Team,2024-04-14,7,,github.com/nadine62,Active,nadine.bensalem@email.com
+OMC-2024-622,Imane Saidi,26.0,BLIDA,UMBB,M2,AI & Data,Member,2024-07-04,4,16.1,github.com/imane85,Inactive,imane.saidi@email.com
+OMC-2024-398,Sofiane Ziani,23.0,Béjaïa,Univ. Oran 1,M2,Cybersecurity,Member,2024-02-27,7,15.4,github.com/sofiane45,Active,sofiane.ziani@email.com
+OMC-2024-766,Wafa Rahmani,23.0,Annaba,ENSIA,M2,Software Engineering,Core Team,2024-09-09,2,11.1,,Active,wafa.rahmani@email.com
+OMC-2024-345,Nassim Rahmani,25.0,BATNA,ENSIA,M2,Web Development,Member,2024-07-19,0,9.0,github.com/nassim64,Active,nassim.rahmani@email.com
+OMC-2024-808,Feriel Benali,23.0,Blida,ENSIA,L2,Web Development,Member,2024-03-04,0,9.6,github.com/feriel55,Active,feriel.benali@email.com
+OMC-2024-463,Nadine Boudiaf,25.0,TLEMCEN,USTHB,M2,Software Engineering,Member,2024-01-02,7,18.2,github.com/nadine64,Active,nadine.boudiaf@email.com
+OMC-2024-317,Wafa Ouali,22.0,Sétif,ENP,M2,Cybersecurity,Member,2024-07-22,6,16.1,github.com/wafa32,Active,wafa.ouali@email.com
+OMC-2024-274,Meriem Boudaoud,18.0,Sétif,USTHB,M1,Cybersecurity,Member,2024-08-12,4,17.8,github.com/meriem39,Active,double@@email.com
+OMC-2024-017,Ilyes Larbi,19.0,Algiers,ENSIA,M1,Web Development,Member,2024-02-16,7,17.3,github.com/ilyes75,active,ilyes.larbi@email.com
+OMC-2024-986,Tarek Larbi,22.0,BATNA,ENP,L2,Embedded Systems,Lead,2024-08-04,3,12.6,github.com/tarek55,Active,tarek.larbi@email.com
+OMC-2024-360,Amira Rahmani,20.0,Constantine,Univ. Oran 1,L1,Cybersecurity,Core Team,2024-01-03,3,12.5,,active,amira.rahmani@email.com
+OMC-2024-622,Imane Saidi,26.0,BLIDA,UMBB,M2,AI & Data,Member,2024-07-04,4,16.1,github.com/imane85,Inactive,imane.saidi@email.com
+OMC-2024-624,Meriem Mekki,18.0,ANNABA,ENSIA,M1,Embedded Systems,Member,2024-09-08,5,18.1,github.com/meriem17,Active,meriem.mekki@email.com
+OMC-2024-902,Feriel Larbi,25.0,Béjaïa,USTHB,M2,Cybersecurity,Member,2024-04-24,6,,github.com/feriel40,Inactive,no_at_sign.com
+OMC-2024-342,Meriem Meziane,21.0,Béjaïa,ESI,M2,Web Development,Member,2024-06-12,2,10.8,github.com/meriem28,Active,meriem.meziane@email.com
+OMC-2024-992,Cyrine Bensalem,26.0,Blida,,L1,Web Development,Core Team,2024-04-05,7,,github.com/cyrine23,active,cyrine.bensalem@email.com
+OMC-2024-356,Amina Saidi,20.0,TIZI OUZOU,ESI,M2,Software Engineering,Member,2024-07-27,7,9.3,github.com/amina56,inactive,amina.saidi@email.com
+OMC-2024-356,Amina Saidi,20.0,TIZI OUZOU,ESI,M2,Software Engineering,Member,2024-07-27,7,9.3,github.com/amina56,inactive,amina.saidi@email.com
+OMC-2024-222,Chaima Larbi,22.0,TLEMCEN,ENP,L1,Cybersecurity,Member,2024-04-12,2,11.6,github.com/chaima78,Active,chaima.larbi@email.com
+OMC-2024-181,Islem Boukhalfa,26.0,Algiers,UMBB,L1,Embedded Systems,Member,2024-08-22,5,19.4,github.com/islem66,Active,islem.boukhalfa@email.com
+OMC-2024-398,Sofiane Ziani,23.0,Béjaïa,Univ. Oran 1,M2,Cybersecurity,Member,2024-02-27,7,15.4,github.com/sofiane45,Active,sofiane.ziani@email.com
+OMC-2024-593,Youcef Mansouri,18.0,Tlemcen,Univ. Oran 1,M1,Cybersecurity,Member,2024-04-04,4,18.2,github.com/youcef86,Active,youcef.mansouri@email.com
+OMC-2024-922,Islem Boukhalfa,18.0,ORAN,UMBB,L2,AI & Data,Member,2024-01-19,3,15.1,github.com/islem10,Active,islem.boukhalfa@email.com
+OMC-2024-885,Nour Larbi,20.0,Sétif,UDBA,M2,Software Engineering,Lead,2024-01-10,4,18.0,github.com/nour84,Inactive,nour.larbi@email.com
+OMC-2024-989,Rayan Larbi,19.0,Batna,ESI,L1,Embedded Systems,Member,2024-02-19,0,9.8,github.com/rayan82,Active,rayan.larbi@email.com
+OMC-2024-127,Sofiane Ziani,21.0,Blida,Univ. Oran 1,L3,AI & Data,Core Team,2024-04-16,0,15.4,github.com/sofiane81,active,spaces in@email.com
+OMC-2024-637,Besma Boudaoud,26.0,Oran,UMBB,M2,Software Engineering,Member,2024-06-03,3,12.4,github.com/besma30,Inactive,besma.boudaoud@email.com
+OMC-2024-303,Lina Benabdallah,20.0,Béjaïa,USTHB,L3,Web Development,Member,2024-07-05,2,10.2,github.com/lina98,Active,lina.benabdallah@email.com
+OMC-2024-037,Oussama Guerfi,19.0,,ENSIA,M1,Cybersecurity,Member,2024-05-12,0,18.8,github.com/oussama36,Active,oussama.guerfi@email.com
+OMC-2024-928,Nadine Hadjadj,24.0,Sétif,ESI,L2,Embedded Systems,Member,2024-01-14,0,12.8,github.com/nadine57,Active,nadine.hadjadj@email.com
+OMC-2024-894,Rima Khelif,25.0,Batna,UDBA,M2,AI & Data,Core Team,2024-09-28,1,11.4,github.com/rima30,Active,rima.khelif@email.com
+OMC-2024-730,Imane Meziane,22.0,Oran,UDBA,M2,Cybersecurity,Member,2024-03-09,5,12.6,github.com/imane86,active,imane.meziane@email.com
+OMC-2024-249,Chaima Saidi,18.0,Annaba,ESI,L1,Embedded Systems,Member,2024-07-14,7,,github.com/chaima16,Active,chaima.saidi@email.com
+OMC-2024-071,Feriel Meziane,26.0,Annaba,Univ. Oran 1,L1,Web Development,Member,2024-01-20,1,13.0,github.com/feriel84,Active,feriel.meziane@email.com
+OMC-2024-440,Amira Bensalem,26.0,TIZI OUZOU,UMBB,M2,Embedded Systems,Member,2024-02-17,5,8.8,github.com/amira77,Active,amira.bensalem@email.com
+OMC-2024-482,Youcef Mekki,20.0,Algiers,UDBA,L2,AI & Data,Lead,2024-01-25,0,19.4,github.com/youcef35,Active,youcef.mekki@email.com
+OMC-2024-007,Djamila Mansouri,24.0,Sétif,Univ. Oran 1,M2,Web Development,Lead,2024-04-16,3,11.3,github.com/djamila72,Active,djamila.mansouri@email.com
+OMC-2024-720,Sofiane Larbi,21.0,Blida,ENP,L2,AI & Data,Core Team,2024-04-11,1,16.9,github.com/sofiane98,Active,sofiane.larbi@email.com
+OMC-2024-459,Youcef Meziane,23.0,Blida,UMBB,M1,Cybersecurity,Member,2024-06-16,5,13.1,github.com/youcef80,active,double@@email.com
+OMC-2024-676,Chaima Mekki,25.0,Constantine,ENP,M2,Web Development,Member,2024-04-18,3,16.6,,Active,chaima.mekki@email.com
+OMC-2024-225,Asma Bensalem,23.0,Blida,ENSIA,L1,AI & Data,Member,2024-08-02,5,16.8,,active,asma.bensalem@email.com
+OMC-2024-952,Oussama Mansouri,20.0,Annaba,USTHB,L2,Web Development,Member,2024-02-24,7,17.8,github.com/oussama78,active,oussama.mansouri@email.com
+OMC-2024-091,Houda Larbi,23.0,Tizi Ouzou,ESI,M1,Web Development,Lead,2024-01-22,7,13.0,github.com/houda34,Active,houda.larbi@email.com
+OMC-2024-956,Cyrine Benabdallah,20.0,BLIDA,Univ. Oran 1,M1,Embedded Systems,Member,2024-08-18,2,12.6,github.com/cyrine86,Active,cyrine.benabdallah@email.com
+OMC-2024-389,Amira Bellal,18.0,Blida,Univ. Constantine,L3,Embedded Systems,Core Team,2024-09-22,7,9.9,github.com/amira47,Active,amira.bellal@email.com
+OMC-2024-247,Lina Guerfi,25.0,Tizi Ouzou,ENSIA,L1,Software Engineering,Core Team,2024-06-27,2,18.0,github.com/lina97,inactive,lina.guerfi@email.com
+OMC-2024-715,Tarek Ouali,22.0,BLIDA,ENSIA,L2,Software Engineering,Member,2024-02-13,1,12.3,github.com/tarek54,Active,tarek.ouali@email.com
+OMC-2024-662,Tarek Benabdallah,19.0,TIZI OUZOU,USTHB,L3,Software Engineering,Member,2024-04-11,7,10.3,github.com/tarek27,Active,@nodomain.dz
+OMC-2024-828,Walid Boudaoud,20.0,ALGIERS,USTHB,L1,Cybersecurity,Member,2024-07-16,7,,github.com/walid61,Active,missing_domain@
+OMC-2024-198,Nassim Ouali,20.0,BLIDA,ESI,L3,Software Engineering,Core Team,2024-09-13,5,19.3,github.com/nassim24,active,nassim.ouali@email.com
+OMC-2024-223,Imane Boukhalfa,150,Annaba,UDBA,L1,Software Engineering,Core Team,2024-06-02,6,11.3,github.com/imane25,Inactive,imane.boukhalfa@email.com
+OMC-2024-437,Walid Boukhalfa,21.0,CONSTANTINE,Univ. Constantine,M1,Software Engineering,Lead,2024-04-27,4,17.2,github.com/walid76,Inactive,walid.boukhalfa@email.com
+OMC-2024-595,Rima Khelif,18.0,ORAN,Univ. Oran 1,L3,Software Engineering,Member,2024-09-04,6,18.8,github.com/rima34,Active,rima.khelif@email.com
+OMC-2024-991,Nassim Hadjadj,19.0,Tlemcen,ESI,L3,Web Development,Member,2024-06-27,2,16.0,github.com/nassim97,Active,nassim.hadjadj@email.com
+OMC-2024-931,Mehdi Hadjadj,22.0,ORAN,USTHB,L2,Software Engineering,Core Team,2024-05-15,1,13.6,github.com/mehdi48,Inactive,mehdi.hadjadj@email.com
+OMC-2024-513,Amina Hadj,18.0,BATNA,ESI,M2,AI & Data,Member,2024-06-20,4,8.3,github.com/amina39,Active,amina.hadj@email.com
+OMC-2024-471,Nour Ouali,25.0,TLEMCEN,Univ. Oran 1,M2,Embedded Systems,Core Team,2024-07-10,1,12.9,github.com/nour51,Active,special!char@email.com
+OMC-2024-852,Oussama Meziane,21.0,Sétif,ESI,L2,Embedded Systems,Core Team,2024-07-17,1,12.7,github.com/oussama49,Active,oussama.meziane@email.com
+OMC-2024-684,Adem Khelif,23.0,Annaba,Univ. Oran 1,M2,AI & Data,Member,2024-04-10,3,17.2,github.com/adem42,Active,adem.khelif@email.com
+OMC-2024-363,Walid Saidi,21.0,TLEMCEN,ENSIA,L2,Cybersecurity,Lead,2024-03-14,0,10.2,github.com/walid52,Inactive,walid.saidi@email.com
+OMC-2024-513,Amina Hadj,18.0,BATNA,ESI,M2,AI & Data,Member,2024-06-20,4,8.3,github.com/amina39,Active,amina.hadj@email.com
+OMC-2024-827,Fatima Boukhalfa,21.0,Béjaïa,ESI,M1,AI & Data,Core Team,2024-05-27,5,14.9,github.com/fatima18,Active,fatima.boukhalfa@email.com
+OMC-2024-416,Walid Benali,25.0,Blida,ENP,L2,Embedded Systems,Lead,2024-06-15,7,13.3,github.com/walid37,active,walid.benali@email.com
+OMC-2024-666,Amine Ouali,21.0,BÉJAÏA,Univ. Oran 1,L3,Embedded Systems,Lead,2024-09-02,1,10.8,github.com/amine97,Active,amine.ouali@email.com
+OMC-2024-324,Rima Cherif,25.0,TIZI OUZOU,UMBB,L3,Embedded Systems,Member,2024-05-15,5,19.1,github.com/rima19,Active,rima.cherif@email.com
+OMC-2024-664,Nour Boukhalfa,20.0,Blida,Univ. Oran 1,L1,Cybersecurity,Member,2024-01-10,7,,github.com/nour40,Active,nour.boukhalfa@email.com
+OMC-2024-625,Meriem Ziani,19.0,TIZI OUZOU,ENP,M1,Embedded Systems,Lead,2024-06-22,0,17.5,github.com/meriem92,Active,meriem.ziani@email.com
+OMC-2024-926,Asma Ziani,20.0,Tlemcen,Univ. Constantine,M1,Software Engineering,Lead,2024-07-17,6,19.6,github.com/asma35,active,asma.ziani@email.com
+OMC-2024-766,Wafa Rahmani,23.0,Annaba,ENSIA,M2,Software Engineering,Core Team,2024-09-09,2,11.1,,Active,wafa.rahmani@email.com
+OMC-2024-626,Nour Boukhalfa,21.0,Sétif,UMBB,M1,Embedded Systems,Member,2024-04-05,0,18.7,github.com/nour23,Inactive,nour.boukhalfa@email.com
+OMC-2024-892,Adem Benabdallah,19.0,,,L2,Software Engineering,Lead,2024-03-18,0,15.2,github.com/adem72,Active,invalid@email.net
+OMC-2024-125,Rayan Boudiaf,20.0,Sétif,Univ. Constantine,L1,AI & Data,Lead,2024-08-20,0,15.6,github.com/rayan83,active,rayan.boudiaf@email.com
+OMC-2024-765,Amine Saidi,23.0,ORAN,,M1,Cybersecurity,Core Team,2024-05-01,0,11.9,github.com/amine17,active,amine.saidi@email.com
+OMC-2024-123,Amira Hadj,18.0,Sétif,ENSIA,L2,Embedded Systems,Core Team,2024-04-17,5,,github.com/amira15,Inactive,amira.hadj@email.com
+OMC-2024-726,Tarek Benali,26.0,Béjaïa,UMBB,L3,Embedded Systems,Member,2024-06-20,5,16.0,github.com/tarek25,Active,tarek.benali@email.com
+OMC-2024-413,Ayoub Boudaoud,25.0,Annaba,UMBB,L2,Web Development,Member,2024-03-14,2,11.3,github.com/ayoub41,Active,ayoub.boudaoud@email.com
+OMC-2024-084,Oussama Boudiaf,25.0,Algiers,UDBA,L1,Software Engineering,Lead,2024-03-05,0,11.4,github.com/oussama70,Active,oussama.boudiaf@email.com
+OMC-2024-224,Yasmine Benabdallah,20.0,Tlemcen,USTHB,M2,Cybersecurity,Core Team,2024-09-14,3,13.4,github.com/yasmine45,active,yasmine.benabdallah@email.com
+OMC-2024-338,Lina Mekki,22.0,Sétif,,L3,Web Development,Lead,2024-03-11,1,15.0,github.com/lina28,active,lina.mekki@email.com
+OMC-2024-460,Malek Benali,22.0,Oran,USTHB,L3,Cybersecurity,Lead,2024-03-18,6,,github.com/malek46,Active,malek.benali@email.com
+OMC-2024-440,Amira Bensalem,26.0,TIZI OUZOU,UMBB,M2,Embedded Systems,Member,2024-02-17,5,8.8,github.com/amira77,Active,amira.bensalem@email.com
+OMC-2024-699,Amina Larbi,19.0,Tizi Ouzou,ESI,L3,Embedded Systems,Member,2024-08-01,4,19.7,,active,amina.larbi@email.com
+OMC-2024-792,Cyrine Meziane,19.0,,ESI,M1,Software Engineering,Member,2024-06-06,5,12.3,github.com/cyrine95,Active,cyrine.meziane@email.com
+OMC-2024-282,Imane Meziane,21.0,Blida,UMBB,L3,Software Engineering,Member,2024-09-03,2,9.8,github.com/imane59,Active,imane.meziane@email.com
+OMC-2024-824,Karim Boukhalfa,26.0,Oran,,L2,Embedded Systems,Lead,2024-09-12,1,17.5,github.com/karim11,Active,karim.boukhalfa@email.com
+OMC-2024-238,Sofiane Larbi,22.0,,ENP,L1,Embedded Systems,Member,2024-09-06,1,13.3,github.com/sofiane54,Active,sofiane.larbi@email.com
+OMC-2024-379,Adem Ouali,25.0,Tlemcen,ESI,L1,Cybersecurity,Member,2024-01-22,1,11.3,github.com/adem94,Inactive,adem.ouali@email.com
+OMC-2024-813,Meriem Meziane,25.0,Blida,UDBA,L1,Cybersecurity,Core Team,2024-05-08,3,9.8,github.com/meriem15,Active,meriem.meziane@email.com
+OMC-2024-727,Meriem Mansouri,25.0,,USTHB,M2,Embedded Systems,Member,2024-04-27,1,13.5,,Active,meriem.mansouri@email.com
+OMC-2024-357,Wafa Ouali,25.0,Tizi Ouzou,ESI,L2,Software Engineering,Member,2024-08-10,6,17.8,,Active,wafa.ouali@email.com
+OMC-2024-047,Rayan Mekki,20.0,Blida,ENSIA,M1,AI & Data,Lead,2024-01-19,4,13.6,github.com/rayan66,Active,rayan.mekki@email.com
+OMC-2024-178,Feriel Hadjadj,20.0,Oran,,M1,Embedded Systems,Lead,2024-08-22,5,18.4,github.com/feriel90,Active,feriel.hadjadj@email.com
+OMC-2024-279,Cyrine Bensalem,18.0,Annaba,UDBA,L2,Software Engineering,Core Team,2024-08-09,0,9.1,github.com/cyrine64,Active,cyrine.bensalem@email.com
+OMC-2024-971,Bilal Cherif,25.0,BLIDA,ESI,L2,Cybersecurity,Member,2024-09-03,2,8.0,github.com/bilal67,Active,bilal.cherif@email.com
+OMC-2024-896,Imane Boudaoud,24.0,Béjaïa,Univ. Constantine,L1,Cybersecurity,Member,2024-03-03,7,17.4,github.com/imane43,Active,imane.boudaoud@email.com
+OMC-2024-638,Lotfi Boukhalfa,21.0,ALGIERS,UMBB,L3,Web Development,Member,2024-05-15,7,9.5,,active,invalid@email.org
+OMC-2024-981,Rayan Boukhalfa,26.0,Oran,UDBA,L1,Web Development,Core Team,2024-03-02,3,16.5,github.com/rayan66,Active,spaces in@email.com
+OMC-2024-784,Mehdi Guerfi,19.0,Algiers,ENSIA,M1,Web Development,Core Team,2024-08-09,2,,,Inactive,mehdi.guerfi@email.com
+OMC-2024-594,Amina Khelif,20.0,TIZI OUZOU,USTHB,L1,Web Development,Member,2024-09-28,2,8.7,github.com/amina75,Active,amina.khelif@email.com
+OMC-2024-825,Houda Bellal,999.0,Blida,ESI,L2,Web Development,Core Team,2024-06-07,7,12.7,github.com/houda92,Inactive,houda.bellal@email.com
+OMC-2024-255,Karim Mekki,19.0,,UMBB,M2,Embedded Systems,Member,2024-08-10,6,11.7,github.com/karim89,active,karim.mekki@email.com
+OMC-2024-717,Cyrine Benali,23.0,Sétif,ENP,L1,Web Development,Lead,2024-01-20,7,18.0,github.com/cyrine46,Active,cyrine.benali@email.com
+OMC-2024-655,Karim Benali,19.0,Blida,UMBB,L2,Cybersecurity,Core Team,2024-02-22,1,15.1,github.com/karim14,Active,karim.benali@email.com
+OMC-2024-245,Sara Hadj,19.0,,UMBB,M1,Software Engineering,Lead,2024-06-06,1,17.3,github.com/sara30,Active,sara.hadj@email.com
+OMC-2024-272,Sara Boudiaf,25.0,Béjaïa,ENP,M2,Embedded Systems,Core Team,2024-07-12,3,20.0,github.com/sara27,Active,sara.boudiaf@email.com
+OMC-2024-250,Sofiane Guerfi,22.0,TLEMCEN,Univ. Oran 1,L3,AI & Data,Member,2024-06-06,7,,github.com/sofiane43,Active,sofiane.guerfi@email.com
+OMC-2024-726,Tarek Benali,26.0,Béjaïa,UMBB,L3,Embedded Systems,Member,2024-06-20,5,16.0,github.com/tarek25,Active,tarek.benali@email.com
+OMC-2024-451,Nour Hadj,18.0,Batna,ENP,L3,Web Development,Member,2024-06-17,1,11.7,github.com/nour67,Active,nour.hadj@email.com
+OMC-2024-066,Wafa Saidi,0.0,Tizi Ouzou,Univ. Constantine,M1,AI & Data,Member,2024-07-13,0,18.3,github.com/wafa83,Inactive,missing_domain@
+OMC-2024-094,Rayan Boudaoud,19.0,Constantine,ENSIA,M1,Web Development,Member,2024-07-13,7,14.3,github.com/rayan80,Active,rayan.boudaoud@email.com
+OMC-2024-099,Oussama Hadjadj,18.0,BÉJAÏA,USTHB,M2,Web Development,Core Team,2024-06-22,1,12.9,github.com/oussama95,Inactive,oussama.hadjadj@email.com
+OMC-2024-187,Rayan Larbi,19.0,Sétif,UDBA,L2,Embedded Systems,Member,2024-06-25,6,11.3,,Active,rayan.larbi@email.com
+OMC-2024-739,Imane Khelif,25.0,SÉTIF,UDBA,L2,Embedded Systems,Core Team,2024-05-25,7,10.8,github.com/imane40,Active,user@@email.dz
+OMC-2024-409,Wafa Boudaoud,24.0,Tizi Ouzou,Univ. Oran 1,L3,Software Engineering,Member,2024-03-22,7,8.8,github.com/wafa20,active,wafa.boudaoud@email.com
+OMC-2024-384,Tarek Hadjadj,20.0,ANNABA,Univ. Oran 1,M2,Cybersecurity,Member,2024-03-03,6,15.4,github.com/tarek40,Inactive,no_tld@email
+OMC-2024-989,Rayan Larbi,19.0,Batna,ESI,L1,Embedded Systems,Member,2024-02-19,0,9.8,github.com/rayan82,Active,rayan.larbi@email.com
+OMC-2024-235,Nour Khelif,25.0,TIZI OUZOU,ESI,M2,Cybersecurity,Member,2024-08-07,2,16.7,github.com/nour83,Active,nour.khelif@email.com
+OMC-2024-299,Fatima Boudiaf,20.0,Blida,ENP,M1,AI & Data,Core Team,2024-04-09,3,13.1,,Active,fatima.boudiaf@email.com
+OMC-2024-377,Karim Larbi,23.0,Tlemcen,UMBB,M1,Web Development,Lead,2024-09-01,4,8.3,github.com/karim44,Active,karim.larbi@email.com
+OMC-2024-378,Cyrine Meziane,20.0,Oran,Univ. Oran 1,M1,Web Development,Core Team,2024-01-15,3,11.9,github.com/cyrine70,Active,cyrine.meziane@email.com
+OMC-2024-721,Adem Bensalem,20.0,Béjaïa,USTHB,M2,Software Engineering,Core Team,2024-02-05,4,9.4,github.com/adem23,active,@nodomain.dz
+OMC-2024-679,Bilal Bensalem,20.0,Algiers,USTHB,L3,Cybersecurity,Member,2024-04-03,3,15.0,,Active,no_at_sign.com
+OMC-2024-458,Amina Hadj,24.0,TIZI OUZOU,UDBA,M2,Web Development,Member,2024-08-11,3,19.8,,Active,amina.hadj@email.com
+OMC-2024-806,Nadine Mekki,23.0,Algiers,Univ. Oran 1,M1,AI & Data,Core Team,2024-07-12,4,17.0,github.com/nadine55,Active,nadine.mekki@email.com
+OMC-2024-004,Ayoub Hadjadj,26.0,Blida,ENSIA,M1,Web Development,Core Team,2024-07-18,0,,,active,ayoub.hadjadj@email.com
+OMC-2024-240,Wafa Khelif,19.0,Tizi Ouzou,Univ. Constantine,M1,Embedded Systems,Core Team,2024-03-16,0,,github.com/wafa85,Active,wafa.khelif@email.com
+OMC-2024-446,Ilyes Benabdallah,25.0,,Univ. Constantine,M1,Embedded Systems,Lead,2024-05-11,3,18.0,github.com/ilyes21,active,ilyes.benabdallah@email.com
